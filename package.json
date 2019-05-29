@@ -1,12 +1,13 @@
 {
   "name": "stylelint-config-bv",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "styleLint config",
   "main": "index.js",
   "keywords": [
     "stylelint",
     "stylelint-config",
-    "bv-cil"
+    "bv-cil",
+    "stylelint-config-bv"
   ],
   "scripts": {
     "lint": "stylelint --fix \"./test/**/*scss\" --config \"./index.js\""
